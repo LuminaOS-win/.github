@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://github.com/amberOS-win/amberOS-win/blob/main/icon.png"  />
+  <img height="300" src="https://github.com/amberOS-win/amberOS-win/blob/main/icon.png"  />
 </div>
 
 ###
