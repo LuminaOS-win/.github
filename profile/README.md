@@ -12,6 +12,6 @@
 
 ###
 
-<p align="center">https://amberos.is-a.dev</p>
+<p align="center">https://luminaos.is-a.dev</p>
 
 ###
