@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://github.com/LuminaOS-win/.github/blob/main/icon.png"  />
+  <img height="200" src="https://raw.githubusercontent.com/LuminaOS-win/.github/main/lumina-full-transparent.png"  />
 </div>
 
 ###
